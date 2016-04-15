@@ -1,3 +1,4 @@
 My first change
 change2
 change3 remote
+git slash changes
